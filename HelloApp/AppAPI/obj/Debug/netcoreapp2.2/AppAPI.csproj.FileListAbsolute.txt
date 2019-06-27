@@ -1,0 +1,14 @@
+C:\Users\Steve\HelloApp\AppAPI\bin\Debug\netcoreapp2.2\AppAPI.deps.json
+C:\Users\Steve\HelloApp\AppAPI\bin\Debug\netcoreapp2.2\AppAPI.runtimeconfig.json
+C:\Users\Steve\HelloApp\AppAPI\bin\Debug\netcoreapp2.2\AppAPI.runtimeconfig.dev.json
+C:\Users\Steve\HelloApp\AppAPI\bin\Debug\netcoreapp2.2\AppAPI.dll
+C:\Users\Steve\HelloApp\AppAPI\bin\Debug\netcoreapp2.2\AppAPI.pdb
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.csprojAssemblyReference.cache
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.csproj.CoreCompileInputs.cache
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.RazorAssemblyInfo.cache
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.RazorAssemblyInfo.cs
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.AssemblyInfoInputs.cache
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.AssemblyInfo.cs
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.dll
+C:\Users\Steve\HelloApp\AppAPI\obj\Debug\netcoreapp2.2\AppAPI.pdb
